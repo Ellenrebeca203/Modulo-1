@@ -1,2 +1,2 @@
 # Modulo-1
-Atividade referente ao curso de cientista de dados da EBAC
+Atividade do módulo 1 do curso de cientista de dados da EBAC
